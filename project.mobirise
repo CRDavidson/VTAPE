@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VTAPE",
-    "currentPage": ".vtape.com.au.html",
+    "currentPage": "home.vtape.com.au.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -54,7 +54,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i"
       }
     ],
-    "uniqCompNum": 33,
+    "uniqCompNum": 45,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -70,7 +70,7 @@
     "about.html": {
       "settings": {
         "title": "About Us",
-        "order": 1,
+        "order": 2,
         "meta_descr": "About VTAPE"
       },
       "components": [
@@ -643,7 +643,7 @@
         }
       ]
     },
-    ".vtape.com.au.html": {
+    "home.vtape.com.au.html": {
       "settings": {
         "main": true,
         "title": "Home",
