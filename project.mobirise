@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VTAPE",
-    "currentPage": "home.html",
+    "currentPage": "www.vtape.com.au.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -643,7 +643,7 @@
         }
       ]
     },
-    "home.html": {
+    "www.vtape.com.au.html": {
       "settings": {
         "main": true,
         "title": "Home",
