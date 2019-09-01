@@ -1,11 +1,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.vtape.com.au.html</loc>
+	</url>
+	<url>
+		
 		<loc>https://www.vtape.com.au/about.html</loc>
 	</url>
 	<url>
 		<loc>https://www.vtape.com.au/home.html</loc>
 	</url>
 	<url>
-		<loc>https://www.vtape.com.au/page2.html</loc>
+		<loc>https://www.vtape.com.au/how.html</loc>
 	</url>
 </urlset>
