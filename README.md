@@ -1,2 +1,3 @@
 # VTAPE
-VTAPE Website
+VTAPE Website updates are happening now...
+Email us at chris@vtape.com.au
