@@ -61,13 +61,14 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-98316837-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-98316837-2');\r\n</script>",
+    "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n\"vars\" : {\r\n\"gtag_id\": \"UA-98316837-2\",\r\n\"config\" : {\r\n\"UA-98316837-2\": { \"groups\": \"default\" }\r\n}\r\n}\r\n}\r\n</script>\r\n</amp-analytics>",
     "siteUrl": "https://www.vtape.com.au",
-    "сanonical-url": "",
+    "сanonical-url": "<linkrel=\"canonical\"href=\"https://www.vtape.com.au/url/to/amp/document.html\">",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "cleanCSS": true
   },
   "pages": {
     "about.html": {
